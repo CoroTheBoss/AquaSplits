@@ -2,7 +2,7 @@
 
 > **This repository documents the AquaSplits structure and architecture. The source code is private. If you'd like more details, feel free to contact me.**
 
-AquaSplit Backend is a NestJS application that fetches swimming race data from external sources (FICR and future sources), parses it into structured MongoDB schemas, and exposes REST APIs for frontend consumption.
+AquaSplits Backend is a NestJS application that fetches swimming race data from external sources (FICR and future sources), parses it into structured MongoDB schemas, and exposes REST APIs for frontend consumption.
 
 ---
 
